@@ -15,3 +15,6 @@ To use Pig Game, simply visit the website at :  👈
 - CSS
 
 Screenshots
+![Screenshot (51)](https://user-images.githubusercontent.com/122713145/227775969-0dbbbcc4-3b6a-4e86-bb23-0af7898d38b5.png)
+
+![Screenshot (53)](https://user-images.githubusercontent.com/122713145/227775971-a37f2144-82fb-4a7b-8ea0-fa6a55dc5702.png)
